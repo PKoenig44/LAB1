@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testConstructorDVD()
+comment0.text=\r\n\ test\ the\ Constructor.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ testRateandFee()
+comment1.text=\r\n\ test\ the\ weekly\ rate\ and\ rental\ fee\r\n\ \r\n
+comment2.params=
+comment2.target=void\ testRentalStatus()
+comment2.text=\r\n\ test\ the\ rented,\ returned\ and\ rental\ status\r\n\ \r\n
+comment3.params=
+comment3.target=void\ testDescription()
+comment3.text=\r\n\ test\ set\ and\ get\ description\ and\ id\ of\ dvd\ player\r\n\ \r\n
+numComments=4
